@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ten UCL Football Club</string>
+    <string name="profile_name">Rahmat Tri Susanto</string>
+    <string name="profile_email">rts.jogja@gmail.com</string>
+    <string name="menu_about">about</string>
+
+    <string-array name="data_nameClub">
+        <item>Real Madrid</item>
+        <item>AC Milan</item>
+        <item>Liverpool</item>
+        <item>Bayern Munich</item>
+        <item>Barcelona</item>
+        <item>Ajax</item>
+        <item>Manchester United</item>
+        <item>Internazionale Milan</item>
+        <item>Juventus</item>
+        <item>Benfica</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Real Madrid Club de Fútbol, umumnya dikenal sebagai Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol. Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih.</item>
+        <item>Associazione Calcio Milan, sering disebut sebagai A.C. Milan atau hanya Milan, adalah sebuah klub sepak bola Italia yang berbasis di Milan, Lombardia, yang bermain di Serie A. Mereka bermain dengan seragam bergaris merah-hitam dan celana putih, sehingga dijuluki rossoneri.</item>
+        <item>Liverpool Football Club adalah sebuah klub sepak bola asal Inggris yang berbasis di Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. Liverpool juga merupakan juara bertahan Liga Champions UEFA musim 2018/2019.</item>
+        <item>Fußball-Club Bayern München e.V., juga dikenal sebagai FC Bayern München, FC Bayern Munich, atau FC Bayern, adalah sebuah klub olahraga Jerman yang berbasis di München, Bavaria.</item>
+        <item>Fútbol Club Barcelona, juga dikenal sebagai Barcelona atau Barça, adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol.</item>
+        <item>Amsterdamsche Football Club Ajax adalah sebuah klub sepak bola dari Amsterdam, Belanda. Klub ini adalah salah satu klub terkuat di Belanda dan juga di Eropa. </item>
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris.</item>
+        <item>Football Club Internazionale Milano, atau yang dikenal dengan nama Internazionale ataupun juga Inter, dan bahasa sehari-hari dikenal sebagai Inter Milan di luar Italia, adalah sebuah klub sepak bola profesional asal Italia yang saat ini bermain di Serie A Liga Italia. </item>
+        <item>Juventus Football Club S.p.A., biasa disebut sebagai Juventus dan popular dengan nama Juve, adalah klub sepak bola profesional asal Italia yang berbasis di Turin, Piemonte. </item>
+        <item>Diterjemahkan dari bahasa Inggris-Olah Raga Lisboa e Benfica ComC MHIH OM, umumnya dikenal sebagai Benfica, adalah klub olahraga Portugis yang berbasis di Lisbon.</item>
+    </string-array>
+
+    <array name="data_logo">
+        <item>@drawable/real_madrid</item>
+        <item>@drawable/ac_milan</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/bayern_munchen</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/ajax</item>
+        <item>@drawable/manchester_united</item>
+        <item>@drawable/inter_milan</item>
+        <item>@drawable/juventus</item>
+        <item>@drawable/benfica</item>
+    </array>
+</resources>
